@@ -1,0 +1,13 @@
+ul{
+    height: 500px;
+    width: 300px;
+    overflow-y: scroll;
+    text-decoration: none;
+}
+a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    font-family:sans-serif;
+    font-size: 25px;
+}

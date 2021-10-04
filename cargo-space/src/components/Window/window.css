@@ -1,0 +1,7 @@
+.card{
+    margin: 100px auto;
+display: flex;
+}
+.buttons{
+    display: flex;
+}

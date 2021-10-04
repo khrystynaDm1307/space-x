@@ -1,0 +1,9 @@
+.mb-3{
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    margin: 20px;
+}
+.form-control{
+  width: 300px;
+}
